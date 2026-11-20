@@ -1,0 +1,8 @@
+{
+  "name": "our-party-online",
+  "version": "1.0.0",
+  "description": "Realtime friends party game starter",
+  "main": "server.js",
+  "scripts": {"start": "node server.js"},
+  "dependencies": {"express": "^4.21.2", "socket.io": "^4.8.1"}
+}
